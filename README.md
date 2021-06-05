@@ -1,8 +1,9 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=joaomrcs&repo=joaomrcs&countColorcountColor)]
+
 ## E aí 🤙🏻 eu sou o John
 
  <div>
     <a href="https://github.com/joaomrcs">
-    <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomrcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrcs&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
